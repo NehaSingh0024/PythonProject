@@ -1,0 +1,29 @@
+[
+  {
+    "Name": "Shrutika",
+    "Address": "Bhp",
+    "City": "Bhopal",
+    "Country": "India",
+    "Pincode": "787878",
+    "SAT Score": 90,
+    "Passed": "Pass"
+  },
+  {
+    "Name": "neha",
+    "Address": "Mum",
+    "City": "Mumbai",
+    "Country": "India",
+    "Pincode": "676767",
+    "SAT Score": 100,
+    "Passed": "Pass"
+  },
+  {
+    "Name": "Pooja",
+    "Address": "Pun",
+    "City": "Pune",
+    "Country": "India",
+    "Pincode": "76765",
+    "SAT Score": 78,
+    "Passed": "Pass"
+  }
+]
